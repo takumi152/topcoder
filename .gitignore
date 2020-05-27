@@ -1,0 +1,8 @@
+*.txt
+*.exe
+temp.*
+*.out
+*.stackdump
+*.swp
+
+/past202005
